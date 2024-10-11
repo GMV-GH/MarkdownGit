@@ -19,6 +19,8 @@
 ## Ветвление
 * git branch <branch_name>: создание новой ветки
 * git branch: просмотр веток
-
+* git checkout: переключение между ветками
+* git merge: слияние репозиториев
+* git branch -d <branch_name>: удаление ветки
 
 ## Удалённый репозиторий
